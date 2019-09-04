@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>C685BECB-5199-4B63-8C83-45FA94B4FEF1</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C685BECB-5199-4B63-8C83-45FA94B4FEF1.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>rnplayground project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>rnplayground</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace rnplayground with scheme rnplayground and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>589268927.07735503</real>
+			<key>timeStoppedRecording</key>
+			<real>589268940.20451701</real>
+			<key>title</key>
+			<string>Building workspace rnplayground with scheme rnplayground and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>C685BECB-5199-4B63-8C83-45FA94B4FEF1</string>
+		</dict>
+		<key>E5353BF1-2120-410A-84C0-A027D6BAF5CD</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E5353BF1-2120-410A-84C0-A027D6BAF5CD.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>rnplayground project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>rnplayground</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace rnplayground with scheme rnplayground and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>589267522.66401696</real>
+			<key>timeStoppedRecording</key>
+			<real>589267555.49520099</real>
+			<key>title</key>
+			<string>Building workspace rnplayground with scheme rnplayground and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>E5353BF1-2120-410A-84C0-A027D6BAF5CD</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

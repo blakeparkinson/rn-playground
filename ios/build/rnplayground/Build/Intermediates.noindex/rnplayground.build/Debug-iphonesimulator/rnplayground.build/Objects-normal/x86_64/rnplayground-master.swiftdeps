@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "7e21a5e0ea76c0105bb3af7ffb715a86"
+build_time: [1567576128, 775951000]
+inputs:
+  "/Users/blakebackbone/Projects/rn-playground/rnplayground/ios/rnplay.swift": [1567575285, 487931133]
